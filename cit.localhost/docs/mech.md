@@ -1,6 +1,5 @@
 # Mechanical Engineering
 ## 3rd Semester
-
  - Mathematics – III MathematicalMethods for Engineering
  - Engineering Thermodynamics
  - Mandatory Course-I
